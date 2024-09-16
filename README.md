@@ -1,7 +1,17 @@
-## Hi there 👋
+## Hi there I'm Allison Hidalgo👋
+
+# About Me
+I'm a senior at Washington and Lee University. I'm originaly from Atlanta, Georgia. I'm majoring in Earth and Environmental Geoscience with a minor in Computer Science. I'd love to find a way to integrate them and possibly work on modeling environmental challeneges to help people around the world.
+
+This is my emotional support dog, his name is Pablo and he's a nine month old chiweenie!!! He may be small but he has a big personality. 
+
+<img src="https://github.com/user-attachments/assets/68cb57ba-ab20-4995-b94a-ad1a48accd6a" alt="Pablo" width="300" />
+<img src="https://github.com/user-attachments/assets/2091ee1e-3a64-47ca-8972-a8c425be5997" alt="Pablo" width="300" />
+
+I’m working on my senior thesis, which focuses on melt inclusions, and I’m loving it so far. At school, I’m a men’s lacrosse operations assistant and a member of the cheerleading team! I’m also a Rho Gamma this year, which has been an interesting experience so far. I’m not entirely sure what I want to do after graduation, but I think things will work themselves out, so for now, I’m not too worried.
 
 <!--
-**allisonhidalgo/allisonhidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**allisonhidalgo/allisonhidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
